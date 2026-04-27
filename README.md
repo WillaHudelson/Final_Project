@@ -27,4 +27,5 @@ This project contains a few limitations in regards to the complete accuracy of a
 
 #**References**
 
-Event Horizon Telescope: https://ui.adsabs.harvard.edu/abs/2022ApJ...930L..12E/abstract Accretion disk physics: https://www.astro.princeton.edu/~gk/A403/disk.pdf
+Event Horizon Telescope: https://ui.adsabs.harvard.edu/abs/2022ApJ...930L..12E/abstract 
+Accretion disk physics: https://www.astro.princeton.edu/~gk/A403/disk.pdf
