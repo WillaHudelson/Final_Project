@@ -28,4 +28,11 @@ This project contains a few limitations in regards to the complete accuracy of a
 #**References**
 
 Event Horizon Telescope: https://ui.adsabs.harvard.edu/abs/2022ApJ...930L..12E/abstract 
+
 Accretion disk physics: https://www.astro.princeton.edu/~gk/A403/disk.pdf
+
+Scipy strategies: https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb
+
+Numpy strategies: https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb 
+
+Matplotlib strategies: https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb  
